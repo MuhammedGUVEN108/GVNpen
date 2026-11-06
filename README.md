@@ -1,19 +1,19 @@
 # GVNpen
 
-Windows ?zerinde ders anlat?m? i?in ekran kalemi.
+Windows üzerinde ders anlatımı için ekran kalemi.
 
 **[Son kurulumu indir](https://github.com/MuhammedGUVEN108/GVNpen/releases/latest)**
 
-- Bekle ve d?zelt: serbest ?izgileri ve desteklenen ?ekilleri d?zeltme.
-- Dersler i?in k?p, prizma, silindir ve di?er 3B ?izgi modeller.
-- G?r?n?r kalem imleci; bas?l? tutunca silgi, b?rak?nca kalem.
-- Ayarlar ? G?ncellemeler ? G?ncelle ile uygulama i?inden g?ncelleme.
-- T?rk?e kurulum, masa?st? simgesi ve Windows ?zerinden kald?rma.
+- Bekle ve düzelt: serbest çizgileri ve desteklenen şekilleri düzeltme.
+- Dersler için küp, prizma, silindir ve diğer 3B çizgi modeller.
+- Görünür kalem imleci; basılı tutunca silgi, bırakınca kalem.
+- Ayarlar → Güncellemeler → Güncelle ile uygulama içinden güncelleme.
+- Türkçe kurulum, masaüstü simgesi ve Windows üzerinden kaldırma.
 
-Windows 10 (1809 veya ?zeri) / Windows 11 x64. .NET pakete dahildir.
-Kurulum y?netici izni ister. Dosya hen?z Authenticode imzal? de?ildir; Windows yay?nc? uyar?s? g?sterebilir.
+Windows 10 (1809 veya üzeri) / Windows 11 x64. .NET pakete dahildir.
+Kurulum yönetici izni ister. Dosya henüz Authenticode imzalı değildir; Windows yayıncı uyarısı gösterebilir.
 
-?lk kurulumdan sonra g?ncellemeleri uygulamadaki d??meden alabilirsiniz; GitHub hesab? gerekmez.
-1.0.0 kullananlar yeni kurulumu bir kez elle ?al??t?rmal?d?r.
+İlk kurulumdan sonra güncellemeleri uygulamadaki düğmeden alabilirsiniz; GitHub hesabı gerekmez.
+1.0.0 kullananlar yeni kurulumu bir kez elle çalıştırmalıdır.
 
-Bu depo kurulum dosyalar? ve s?r?m notlar?n? da??tmak i?indir. Kaynak kodlar? yay?mlanmam??t?r.
+Bu depo kurulum dosyaları ve sürüm notlarını dağıtmak içindir. Kaynak kodları yayımlanmamıştır.
